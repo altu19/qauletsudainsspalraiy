@@ -3,7 +3,7 @@ let currentQuestion = 0;
 let selectedOption = null;
 
 function fetchMCQs() {
-    fetch('mcqs.json')
+    fetch('mcqscat1.json')
         .then(response => response.json())
         .then(data => {
             mcqs = data;
@@ -96,7 +96,7 @@ nextButton.addEventListener("click", () => {
 const submitButton = document.getElementById("submit-button");
 submitButton.addEventListener("click", () => {
     const currentMCQ = mcqs[currentQuestion];
-    const correctOption = currentMCQ.correctoption;
+    const correctOption = currentMCQ.correct_option;
 
     const resultElement = document.getElementById("result");
     if (!selectedOption) {
