@@ -1,0 +1,34 @@
+{
+    "questions": [
+        {
+            "question": "The number of terminal oxygen atoms present in the product $B$ obtained from the following reactions is\n\n$\\mathrm{FeCr}_{2} \\mathrm{O}_{4}+\\mathrm{Na}_{2} \\mathrm{CO}_{3}+\\mathrm{O}_{2} \\rightarrow \\mathrm{A}+\\mathrm{Fe}_{2} \\mathrm{O}_{3}+\\mathrm{CO}_{2}$\n\n$\\mathrm{A}+\\mathbf{H}^{+} \\rightarrow \\mathbf{B}+\\mathbf{H}_{2} \\mathbf{O}+\\mathbf{N a}^{+}$ JEE Main-29.06.2022, Shift-I",
+            "correct_answer": 6,
+            "solution": ":\n\n$\\mathrm{FeCr}_{2} \\mathrm{O}_{4}+\\mathrm{Na}_{2} \\mathrm{CO}_{3}+\\mathrm{O}_{2} \\rightarrow \\mathrm{Na}_{2} \\mathrm{CrO}_{4}+\\mathrm{Fe}_{2} \\mathrm{O}_{3}+\\mathrm{CO}_{2}$\n\n$\\therefore \\underset{\\text { (A) }}{2 \\mathrm{Na}_{2} \\mathrm{CrO}_{4}+2 \\mathrm{H}^{+}} \\rightarrow \\underset{\\text { (B) }}{\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}}+\\mathrm{H}_{2} \\mathrm{O}+4 \\mathrm{Na}^{+}$\n\n$\\mathrm{B}=\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-} \\rightarrow$\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{images/redox3s.jpg}\n\\end{center}\n\nSo, number of terminal oxygen atom in $\\mathrm{B}=6$."
+        },
+        {
+            "question": "The difference in oxidation state of chromium in chromate and dichromate salts is JEE Main-24.06.2022, Shift-I",
+            "correct_answer": 0,
+            "solution": ": Dichromate $\\rightarrow \\stackrel{\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}}{ }$\n\n$$\n\\begin{aligned}\n& x \\times 2+(-2) \\times 7=-2 \\\\\n& x=+6\n\\end{aligned}\n$$\n\nChromate $\\rightarrow \\stackrel{\\mathrm{y}}{\\mathrm{Cr}_{2} \\mathrm{O}_{4}^{2-}}$\n\n$$\n\\begin{aligned}\n& y+(-2)(4)=-2 \\\\\n& y-8=-2 \\\\\n& y=+6\n\\end{aligned}\n$$\n\n$\\therefore$ Difference in oxidation state $(x-y)=6-6=0$."
+        },
+        {
+            "question": "Dichromate ion is treated with base, the oxidation number of $\\mathrm{Cr}$ in the product formed is\n\n\nJEE Main 26.02.2021, Shift-I",
+            "correct_answer": 6,
+            "solution": ":\n\n$$\n\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}+2 \\mathrm{OH}^{-} \\square \\quad 2 \\mathrm{CrO}_{4}^{2-}+\\mathrm{H}_{2} \\mathrm{O}\n$$\n\nLet, oxidation state of $\\mathrm{Cr}$ in chromate ion is $\\mathrm{x}$.\n\n$$\n\\begin{gathered}\n\\mathrm{CrO}_{4}^{2-} \\Rightarrow \\mathrm{x}+(-2) 4=-2 \\\\\n\\quad \\Rightarrow \\mathrm{x}=6\n\\end{gathered}\n$$\n\nHence, the oxidation state of $\\mathrm{Cr}$ in $\\mathrm{CrO}_{4}^{2-}$ is +6 ."
+        },
+        {
+            "question": "The sum of oxidation states of two silver ions in $\\left[\\mathbf{A g}\\left(\\mathbf{N H}_{3}\\right)_{2}\\right]\\left[\\mathbf{A g}(\\mathbf{C N})_{2}\\right]$ complex is........... JEE Main- 01.09.2021, Shift-II",
+            "correct_answer": 2,
+            "solution": ":\n\n$\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_{3}\\right)_{2}\\right]\\left[\\mathrm{Ag}(\\mathrm{CN})_{2}\\right]$ complex is dissociates into\n\n$\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_{3}\\right)_{2}\\right]^{+}$and $\\left[\\mathrm{Ag}(\\mathrm{CN})_{2}\\right]^{-}$.\n\n$\\because \\quad\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_{3}\\right)_{2}\\right]$\n\nLet, oxidation state of $\\mathrm{Ag}$ is $\\mathrm{x}_{1}$.\n\n$\\therefore \\quad \\mathrm{x}_{1}+2(0)=+1$\n\nOr $\\quad \\mathrm{x}_{1}=+1$\n\nAnd $\\quad\\left[\\mathrm{Ag}(\\mathrm{CN})_{2}\\right]^{-}$\n\nLet, oxidation state of $\\mathrm{Ag}$ is $\\mathrm{x}_{2}$.\n\n$\\therefore \\quad \\mathrm{x}_{2}+2(-1)=-1$\n\nOr $\\quad \\mathrm{x}_{2}=+1$\n\n$\\therefore \\quad \\mathrm{x}_{1}+\\mathrm{x}_{2}=1+1=2$"
+        },
+        {
+            "question": "Dichromate ion is treated with base, the oxidation number of $\\mathrm{Cr}$ in the product formed is\n\n\nJEE Main 26.02.2021, Shift-I",
+            "correct_answer": 6,
+            "solution": ": $\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}+2 \\mathrm{OH}^{-} \\square \\quad 2 \\mathrm{CrO}_{4}^{2-}+\\mathrm{H}_{2} \\mathrm{O}$\n\nLet, oxidation state of $\\mathrm{Cr}$ in $\\mathrm{CrO}_{4}^{2-}$ is $\\mathrm{x}$\n\n$\\therefore \\quad \\mathrm{x}+4(-2)=-2$\n\n$\\mathrm{x}-8=-2$\n\n$\\mathrm{x}=+6$"
+        },
+        {
+            "question": "The oxidation states of transition metal atoms in $\\mathrm{K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}, \\mathrm{KMnO}_{4}$ and $\\mathrm{K}_{2} \\mathrm{FeO}_{4}$, respectively, are $x, y$ and $z$. The sum of $x, y$ and $z$ is\n\n\n[JEE Main 2020, 2 Sep Shift-II]\n\n$$",
+            "correct_answer": 19,
+            "solution": ": \\begin{gathered}\n\\text { Answer }-19 \\\\\n\\mathrm{~K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7} \\Rightarrow 2(+1)+2 \\mathrm{x}+7(-2)=0 \\\\\n\\text { oxidation state } \\Rightarrow \\mathrm{x}=6 \\\\\n\\mathrm{KMnO}_{4} \\Rightarrow 1+\\mathrm{y}+4(-2)=0 \\\\\n\\mathrm{y}=7 \\\\\n\\mathrm{~K}_{2} \\mathrm{FeO}_{4} \\Rightarrow 2(1)+\\mathrm{z}+4(-2)=0 \\\\\n\\mathrm{z}=6 \\\\\n\\mathrm{So}, \\mathrm{x}+\\mathrm{y}+\\mathrm{z}=6+7+6=19 \\\\\n\\end{gathered}\n$$"
+        }
+    ]
+}
